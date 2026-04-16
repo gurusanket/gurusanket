@@ -1,5 +1,6 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=gurusanket&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=gurusanket&theme=dark&hide_border=true)<br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=gurusanket&theme=dark&hide_border=true)<br/> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurusanket&" alt="gurusanket" />
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gurusanket&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
